@@ -13,6 +13,10 @@ import saifullah from "../../img/blob/saifullah.png";
 import humble from "../../img/blob/humble.png";
 import fawzan from "../../img/blob/fawzan.png";
 import "./Home.css";
+import Service from "../Service/Service";
+import Services from "../Services/Services";
+import Course from "../Course/Course";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -37,6 +41,16 @@ const Home = () => {
             Master’s degrees in various fields of study.
           </p>
         </div>
+      </div>
+
+      <div className="my-courses">
+        <Course></Course>
+      </div>
+
+      <div className="ViewMore">
+        <Link to="/services">
+          <button>View More</button>
+        </Link>
       </div>
 
       <div className="instructor-blob">

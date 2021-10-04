@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tawheed",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Tawheed.png",
+    "fee": 7000,
+    "instractor": "Dr. Wasiullah Abbas",
+    "key": 1
+  },
+  {
+    "name": "Islamic Creed",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Islami%20Creed.png",
+    "fee": 9000,
+    "instractor": "Dr. Abu Bakar Zakaria",
+    "key": 2
+  },
+  {
+    "name": "Talim-al-Quran",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Talim-al-Quran.png",
+    "fee": 6000,
+    "instractor": "Dr. Saifuddin Belal",
+    "key": 3
+  },
+  {
+    "name": "Dars-al-Hadith",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Dars-al-Hadith.png",
+    "fee": 3000,
+    "instractor": "Ustaz Motiur Rahman",
+    "key": 4
+  }
+]

@@ -31,3 +31,10 @@
   width: 160px;
   margin-right: 30px;
 }
+.ViewMore {
+  text-align: center;
+}
+.ViewMore button {
+  background-color: #ccaffc;
+  width: 20%;
+}
