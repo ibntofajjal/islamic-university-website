@@ -1,0 +1,33 @@
+.introduction {
+  /* background-color: #afd1f9; */
+  padding: 10px;
+  border-radius: 5px;
+}
+.introduction h1 {
+  background-color: #ccaffc;
+  padding: 30px 10px;
+  border-radius: 5px;
+}
+.decription {
+  padding: 20px 80px;
+  font-size: 18px !important;
+}
+.instructor-blob {
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 7px;
+  padding: 50px;
+}
+.instructor-blob h1 {
+  background-color: rgba(100, 148, 237, 0.349);
+  width: 70%;
+  border-radius: 7px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px;
+}
+.instructor-blob img {
+  width: 160px;
+  margin-right: 30px;
+}
