@@ -1,0 +1,16 @@
+.map-services {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 20px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+.our-courses {
+  margin-top: 4rem;
+  background-color: rgba(158, 101, 250, 0.521);
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

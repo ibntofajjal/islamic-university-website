@@ -1,0 +1,28 @@
+.about {
+  display: flex;
+  align-items: center;
+  margin-top: 9rem;
+  margin-bottom: 9rem;
+}
+.about img {
+  width: 3500px;
+  height: 376px;
+  border-radius: 0 10px 10px 0;
+}
+.text-content {
+  background-color: rgba(0, 0, 0, 0.788);
+  padding: 80px 30px;
+  color: white;
+  border-radius: 10px 0 0 10px;
+}
+.instructors-text {
+  /* margin-top: 4rem; */
+  background-color: rgba(158, 101, 250, 0.521);
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  cursor: pointer;
+  text-align: center;
+}
+.instructors {
+  margin-bottom: 4rem;
+}

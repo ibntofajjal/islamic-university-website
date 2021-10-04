@@ -1,0 +1,19 @@
+.notfound-container {
+  text-align: center;
+  margin-top: 6%;
+}
+
+.notfound-container h1 {
+  font-size: 350px;
+}
+
+.notfound-container p {
+  font-size: 50px;
+}
+button {
+  background-color: rgb(128, 230, 255);
+  padding: 10px 40px;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 5rem;
+}

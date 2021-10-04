@@ -1,0 +1,11 @@
+.card img {
+  width: 500px !important;
+  border-radius: 10px 10px 0 0;
+}
+.card {
+  border-radius: 10px !important;
+}
+.enroll {
+  padding: 10px 30px !important;
+  margin-bottom: 10px;
+}

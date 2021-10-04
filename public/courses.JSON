@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tawheed",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Tawheed.png",
+    "fee": 7000,
+    "instractor": "Dr. Wasiullah Abbas",
+    "key": 1
+  },
+  {
+    "name": "Islamic Creed",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Islami%20Creed.png",
+    "fee": 9000,
+    "instractor": "Dr. Abu Bakar Muhammad Zakaria",
+    "key": 2
+  },
+  {
+    "name": "Talim-al-Quran",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Talim-al-Quran.png",
+    "fee": 6000,
+    "instractor": "Dr. Saifuddin Belal Madani",
+    "key": 3
+  },
+  {
+    "name": "Dars-al-Hadith",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Dars-al-Hadith.png",
+    "fee": 3000,
+    "instractor": "Ustaz Motiur Rahman Madani",
+    "key": 4
+  },
+  {
+    "name": "Usool-e-Hadith",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Usool-e-Hadith.png",
+    "fee": 10000,
+    "instractor": "Shaikh Abdullah Bin Abdur Razzak",
+    "key": 5
+  },
+  {
+    "name": "Usool-e-Fiqh",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/usool-e-fiqh.png",
+    "fee": 9000,
+    "instractor": "Dr. Abu Bakar Muhammad Zakaria",
+    "key": 6
+  },
+  {
+    "name": "Fiqh-un-Niqah",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-un-Niqah.png",
+    "fee": 5000,
+    "instractor": "Dr. Muhammad Saifullah",
+    "key": 7
+  },
+  {
+    "name": "Fiqh-al-Siam",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-al-Siam.png",
+    "fee": 5000,
+    "instractor": "Dr. Muhammad Saifullah",
+    "key": 8
+  },
+  {
+    "name": "Fiqh-al-Hajj",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-al-Hajj.png",
+    "fee": 5000,
+    "instractor": "Dr. Asadullah al Galib",
+    "key": 9
+  },
+  {
+    "name": "Fiqh-al-Jihad",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-al-Jihad.png",
+    "fee": 5000,
+    "instractor": "Dr. Abu Bakar Muhammad Zakaria",
+    "key": 10
+  },
+  {
+    "name": "Fiqh-al-Zakat",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-al-Zakat.png",
+    "fee": 5000,
+    "instractor": "Shaikh Mukarram Bin Muhsin",
+    "key": 11
+  },
+  {
+    "name": "Fiqh-as-Sunnah",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/img2.0/Fiqh-as-Sunnah.png",
+    "fee": 5000,
+    "instractor": "Shaikh Assim AlHakeem",
+    "key": 12
+  }
+]

@@ -1,0 +1,10 @@
+.footer {
+  background-color: #212529;
+  color: rgb(214, 214, 214);
+  text-align: center;
+  padding: 30px;
+  cursor: pointer;
+}
+.footer img {
+  width: 350px;
+}
